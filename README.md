@@ -1,10 +1,11 @@
 template-spring-mvc
 ===============
-template of spring-mvc war project
-i18n configuration and change locale feature
-FileID: create(itextpdf) and download pdf file
-FileIO: create and download csv file 
-FileIO: zip and download pdf files
+- template of spring-mvc war project
+- i18n configuration and change locale feature
+- FileID: create(itextpdf) and download pdf file
+- FileIO: create and download csv file 
+- FileIO: zip and download pdf files
+
 ===============
 
 Build
